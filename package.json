@@ -18,5 +18,15 @@
     "jest": "28.1.0",
     "nodemon": "2.0.16",
     "supertest": "6.2.3"
-  }
+  },
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stef2291/jokes-service.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stef2291/jokes-service/issues"
+  },
+  "homepage": "https://github.com/stef2291/jokes-service#readme"
 }
